@@ -51,7 +51,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 ### 4️⃣ Add Google OAuth Credentials
 Download from Google Cloud Console and save as:
 ```bash
-GEMINI_API_KEY=your_gemini_api_key_here
+credentials/credentials.json
 ```
 
 ---
