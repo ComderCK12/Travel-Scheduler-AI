@@ -30,35 +30,6 @@ Supports both **Gmail inbox emails** and **local text files (.txt)** for testing
 
 ---
 
-## 📁 Project Structure
-
-TravelSchedulerAI/
-├── app/
-│ ├── main.py # Full Gmail → AI → Calendar workflow
-│ ├── config.py # API scopes, settings, timezones
-│ ├── services/
-│ │ ├── gmail_service.py # Reads emails via Gmail API
-│ │ ├── ai_extractor.py # AI model extracts travel details
-│ │ ├── calendar_service.py# Creates events in Google Calendar
-│
-├── tests/
-│ ├── sample_emails/ # Test files for offline mode
-│ │ ├── flight_email.txt
-│ │ ├── train_email.txt
-│ │ └── bus_email.txt
-│ ├── test_local_emails.py # Run AI + Calendar without Gmail
-│
-├── credentials/
-│ ├── credentials.json # OAuth client from Google Cloud Console
-│ ├── token.json # Generated after login (do not upload)
-│
-├── requirements.txt
-├── .env # API key for Gemini/OpenAI
-├── README.md
-
-
----
-
 ## ⚙️ Setup & Installation
 
 ### 1️⃣ Clone the Repository
