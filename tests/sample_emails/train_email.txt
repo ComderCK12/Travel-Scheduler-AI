@@ -1,0 +1,24 @@
+Subject: Your Train Ticket Booking Confirmation
+
+Dear John Doe,
+
+Thank you for choosing Express Train Services! We are pleased to confirm your train ticket booking.
+
+**Booking Details:**
+- **Passenger Name:** John Doe
+- **Train Number:** ET1234
+- **Departure Station:** Central Station
+- **Arrival Station:** Grand Station
+- **Departure Date:** October 15, 2026
+- **Departure Time:** 10:00 AM
+- **Seat Number:** 12A
+- **Ticket Price:** $45.00
+
+Please arrive at the station at least 30 minutes before departure. Ensure you have a valid ID and your ticket ready for inspection.
+
+If you have any questions or need to make changes to your booking, please contact our customer service at (555) 123-4567 or support@expresstrainservices.com.
+
+Thank you for traveling with us!
+
+Best regards,
+Express Train Services Customer Support

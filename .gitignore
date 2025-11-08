@@ -1,0 +1,6 @@
+# Google API credentials
+credentials.json
+token.json
+
+# .env
+.env

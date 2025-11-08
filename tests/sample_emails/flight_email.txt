@@ -1,0 +1,21 @@
+Subject: Your Flight Booking is Confirmed – Indigo Airlines
+
+Dear Passenger,
+
+Your flight booking has been successfully confirmed.
+
+Passenger Name: Chirag Kathoye  
+Airline: IndiGo  
+Flight Number: 6E-2134  
+PNR: AB12CD  
+From: Mumbai (BOM)  
+To: Delhi (DEL)  
+Date of Travel: 12 February 2026  
+Departure Time: 06:30 AM  
+Arrival Time: 08:45 AM  
+Seat: 14A
+
+Baggage Allowance:
+Cabin: 7 Kg | Check-in: 15 Kg
+
+Thank you for choosing IndiGo. Have a pleasant journey!

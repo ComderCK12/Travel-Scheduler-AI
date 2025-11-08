@@ -1,0 +1,21 @@
+Subject: Bus Ticket Confirmed – RedBus Booking
+
+Hello Chirag,
+
+Your bus ticket is confirmed.
+
+Passenger Name: Chirag Kathoye  
+Operator: VRL Travels  
+Bus Type: Sleeper AC  
+PNR / Ticket No: RB56789  
+From: Pune  
+To: Bangalore  
+Date of Journey: 20 February 2026  
+Departure Time: 09:30 PM  
+Arrival Time: 06:00 AM
+Seat Number: U12
+
+Boarding Point: Wakad Bridge, Pune – 09:00 PM  
+Contact: 080-12345678
+
+Thank you for booking with RedBus. Have a safe journey!
